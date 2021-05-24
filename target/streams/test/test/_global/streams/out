@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ergast.F1Spec, org.scalatest.tools.Framework$$anon$1@64c51ec0, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mF1Spec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mergast.com public APIs[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  GET /f1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should return list of 20 circuits for 2017 F1 season in JSON format (3 seconds, 209 milliseconds)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should allow everything in CORS and have header with given length (198 milliseconds)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should retrieve first circuit ID for 2017 and assert Location (568 milliseconds)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should return list of standings of alonso for renault  (699 milliseconds)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 8 seconds, 264 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 4, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ergast.F1Spec[0m
